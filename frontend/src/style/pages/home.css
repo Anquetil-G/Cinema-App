@@ -1,0 +1,4 @@
+#HomePage .popularFilmsList {
+  display: flex;
+  gap: 3px;
+}

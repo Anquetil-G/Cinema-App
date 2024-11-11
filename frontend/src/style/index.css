@@ -1,0 +1,7 @@
+@import "./reset.css";
+
+/* Pages */
+@import "./pages/home.css";
+
+/* Components */
+@import "./components/posterFilm";
